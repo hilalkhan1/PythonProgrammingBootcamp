@@ -8,8 +8,11 @@ A complete Python programming bootcamp designed to take students from absolute b
 ## 📚 Course Overview
 
 **Duration:** 8 Weeks
+
 **Level:** Beginner to Intermediate
+
 **Prerequisites:** None - suitable for complete beginners
+
 **Total Content:** 593 pages of lectures, 38 code examples, 2 evolving projects, 55 unit tests
 
 ---

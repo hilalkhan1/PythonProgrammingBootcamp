@@ -162,7 +162,7 @@ By completing this bootcamp, students will:
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hilalkhan1/PythonProgrammingBootcamp.git
    cd PythonProgrammingBootcamp
    ```
 

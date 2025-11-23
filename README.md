@@ -9,7 +9,7 @@ A complete Python programming bootcamp designed to take students from absolute b
 
 **Duration:** 8 Weeks
 
-**Level:** Beginner to Intermediate
+**Level:** Beginner to Advanced
 
 **Prerequisites:** None - suitable for complete beginners
 

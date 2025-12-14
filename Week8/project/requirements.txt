@@ -1,0 +1,17 @@
+# Python Programming Bootcamp - Week 8
+# Library Management System - Dependencies
+
+# Core Python (built-in modules used):
+# - unittest (testing)
+# - json (data persistence)
+# - datetime (date handling)
+# - functools (reduce, wraps for decorators)
+# - time (performance timing)
+# - os (file system operations)
+
+# No external dependencies required!
+# This project uses only Python standard library.
+
+# For development/optional:
+# pytest>=7.4.0  # Alternative test runner (optional)
+# pytest-cov>=4.1.0  # Code coverage (optional)
